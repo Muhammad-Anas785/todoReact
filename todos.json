@@ -1,0 +1,20 @@
+[
+    {
+        "userID":1,
+        "name":"anas",
+        "email":"ma2210688@gmail.com",
+        "mobile":6652718
+    },
+    {
+        "userID":2,
+        "name":"ibad",
+        "email":"ma22kkahia10688@gmail.com",
+        "mobile":6652718
+    },
+    {
+        "userID":3,
+        "name":"sami",
+        "email":"ma2210688@gmail.com",
+        "mobile":6652718
+    }
+]
